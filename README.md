@@ -1,4 +1,4 @@
-# e.py
+# E
 ![e](https://user-images.githubusercontent.com/57872802/114698161-0e09c380-9d1f-11eb-9e83-763f75cf82de.jpg)
 
 I just print big E using small E's

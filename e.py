@@ -1,3 +1,4 @@
+print("ez")
 def print_line_of_e(length):
     for i in range(length):
         print("E", end='')

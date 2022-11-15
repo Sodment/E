@@ -17,3 +17,4 @@ For e_e(30,7) you get
 ![30_7e](https://user-images.githubusercontent.com/57872802/114698295-3d203500-9d1f-11eb-838c-486d472ca0a1.jpg)
 
 Its so cool isn't it?
+Well i done my work

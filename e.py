@@ -26,3 +26,6 @@ e_e(100, 12)
 
 def debug(msg: str) -> None:
     print(msg)
+
+
+print("ez")

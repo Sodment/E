@@ -22,3 +22,5 @@ def e_e(height, width):
 
 
 e_e(100, 12)
+
+print("ez")

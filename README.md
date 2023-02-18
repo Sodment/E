@@ -38,6 +38,6 @@ For a 5 1 you get
 
 ![5_1a](./pictures/5_1a.png)
 
-For a 5 1 you get
+For a 30 7 you get
 
 ![30_7a](./pictures/30_7a.png)

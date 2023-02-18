@@ -1,5 +1,7 @@
 # mEmE rEpository
-![e](https://user-images.githubusercontent.com/57872802/114698161-0e09c380-9d1f-11eb-9e83-763f75cf82de.jpg)
+![e](./pictures/e.jpg)
+
+![a](./pictures/a.png)
 
 ~~I just print big E using small E's~~
 I am a powerful Enterprise-level function/CLI tool for generating BIG E's with small E's and BIG A's with small A's.
@@ -38,4 +40,4 @@ For a 5 1 you get
 
 For a 5 1 you get
 
-![5_1a](./pictures/5_1a.png)
+![30_7a](./pictures/30_7a.png)

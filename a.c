@@ -19,6 +19,10 @@ int main(int argc, char** argv){
     int height = atoi(argv[1]);
     int width = atoi(argv[2]);
     
+    if (height <0 || width <0){
+        printf_s("Crime: negative dimention A\nPunishment: seg fault\n");
+            *(int*) 0 = 'A'; 
+    }
     int middle = (3*height)/5;
     int width_2 = width/2; 
 

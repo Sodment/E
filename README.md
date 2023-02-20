@@ -41,3 +41,5 @@ For a 5 1 you get
 For a 30 7 you get
 
 ![30_7a](./pictures/30_7a.png)
+
+Its so cool isn't it?
